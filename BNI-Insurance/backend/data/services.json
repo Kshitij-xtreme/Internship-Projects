@@ -1,0 +1,8 @@
+[
+  {"id":1,"icon":"🛡️","title":"Life Insurance","description":"Comprehensive term and whole-life plans that protect your family's financial future against the unexpected."},
+  {"id":2,"icon":"🏥","title":"Health Insurance","description":"Affordable individual and family floater health plans with cashless hospitalization across India."},
+  {"id":3,"icon":"📊","title":"Mutual Funds & SIP","description":"Goal-based investment portfolios curated by certified analysts to grow your wealth steadily over time."},
+  {"id":4,"icon":"🏖️","title":"Retirement Planning","description":"Pension and annuity solutions designed to ensure a comfortable, stress-free retirement life."},
+  {"id":5,"icon":"💰","title":"Tax Saving Plans","description":"Optimize your tax liability under Section 80C/80D with smartly structured ELSS and insurance products."},
+  {"id":6,"icon":"🏢","title":"Corporate Insurance","description":"Group health and life cover solutions to protect and motivate your most valuable asset — your employees."}
+]
