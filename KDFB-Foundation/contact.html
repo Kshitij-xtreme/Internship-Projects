@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact Us — Krrishna Dhwarka Foundation Bharat</title>
+  <link rel="stylesheet" href="assets/style.css"/>
+  <style>
+    .page-hero { background: linear-gradient(135deg, var(--deep-navy), #1a3a5c); padding: 150px 40px 80px; text-align: center; }
+    .page-hero h1 { font-family: 'Cinzel', serif; font-size: clamp(1.8rem,4vw,3rem); color: var(--white); margin-bottom: 16px; }
+    .page-hero p { color: #aac; font-size: 1.05rem; max-width: 560px; margin: 0 auto; line-height: 1.7; }
+    .breadcrumb { color: var(--gold); font-size: 0.82rem; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 16px; }
+    .breadcrumb a { color: var(--gold-light); text-decoration: none; }
+  </style>
+</head>
+<body>
+<nav>
+  <a href="index.html" class="nav-logo">
+    <img src="assets/logo.png" alt="KDFB Logo"/>
+    <div class="nav-logo-text">Krrishna Dhwarka<br>Foundation Bharat</div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="certificates.html">Certificates</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+  <a href="donate.html" class="nav-cta">Donate Now</a>
+</nav>
+
+<div class="page-hero">
+  <p class="breadcrumb"><a href="index.html">Home</a> &nbsp;›&nbsp; Contact</p>
+  <h1>Get in Touch</h1>
+  <p>Have a question, want to volunteer, or looking to partner with us? We'd love to hear from you.</p>
+</div>
+
+<section class="section">
+  <div class="container">
+    <div class="contact-grid">
+      <div class="contact-info">
+        <p class="section-label" style="text-align:left; margin-bottom:10px;">Reach Us</p>
+        <h3>We're Here to Help</h3>
+        <p style="color:var(--text-muted); line-height:1.8; margin:12px 0 28px;">Whether you're a donor, volunteer, partner NGO, or someone who needs our support — our team responds within 24 hours.</p>
+
+        <div class="contact-item">
+          <div class="contact-icon">📍</div>
+          <div>
+            <h4>Address</h4>
+            <p>Krrishna Dhwarka Foundation Bharat<br>Sector 12, Gandhinagar, Gujarat – 382012, India</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon">📧</div>
+          <div>
+            <h4>Email</h4>
+            <p>info@kdfbharat.org<br>donations@kdfbharat.org</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon">📞</div>
+          <div>
+            <h4>Phone / WhatsApp</h4>
+            <p>+91 98765 43210<br>Mon–Sat, 9am–6pm IST</p>
+          </div>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon">🕐</div>
+          <div>
+            <h4>Response Time</h4>
+            <p>Email: within 24 hours<br>Phone: same business day</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="inquiry-form">
+        <h3>Send Us a Message</h3>
+        <form onsubmit="submitInquiry(event)">
+          <div class="form-group">
+            <label>Full Name *</label>
+            <input type="text" placeholder="Your name" required/>
+          </div>
+          <div class="form-group">
+            <label>Email Address *</label>
+            <input type="email" placeholder="you@email.com" required/>
+          </div>
+          <div class="form-group">
+            <label>Phone Number</label>
+            <input type="tel" placeholder="+91 98765 43210"/>
+          </div>
+          <div class="form-group">
+            <label>Subject *</label>
+            <select required>
+              <option value="">— Select a subject —</option>
+              <option>General Inquiry</option>
+              <option>Donation / Tax Receipt</option>
+              <option>Volunteer Opportunity</option>
+              <option>Corporate / CSR Partnership</option>
+              <option>Media / Press</option>
+              <option>Request for Certificates</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Message *</label>
+            <textarea rows="5" placeholder="Write your message here..." required></textarea>
+          </div>
+          <button type="submit" class="btn-submit">Send Message →</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="footer-logo"><img src="assets/logo.png" alt="Logo"/><div class="footer-logo-text">Krrishna Dhwarka<br>Foundation Bharat</div></div>
+      <p>Working toward a just, educated, and healthy India — one community at a time.</p>
+    </div>
+    <div class="footer-col"><h5>Quick Links</h5><ul><li><a href="index.html">Home</a></li><li><a href="about.html">About Us</a></li><li><a href="certificates.html">Certificates</a></li><li><a href="donate.html">Donate</a></li><li><a href="contact.html">Contact</a></li></ul></div>
+    <div class="footer-col"><h5>Contact</h5><ul><li><a href="#">info@kdfbharat.org</a></li><li><a href="#">+91 98765 43210</a></li><li><a href="#">Gujarat, India</a></li></ul></div>
+  </div>
+  <div class="footer-bottom"><p>© 2024 Krrishna Dhwarka Foundation Bharat. All rights reserved. | Registered NGO | 80G Certified</p></div>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
