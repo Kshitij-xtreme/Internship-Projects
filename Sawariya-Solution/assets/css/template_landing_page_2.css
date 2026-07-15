@@ -1,0 +1,203 @@
+.banner_reactjs_heading {
+        max-width: 600px;
+    padding: 15% 0;
+}
+.banner_reactjs_heading h1 {font-family: 'Heebo', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 72px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 28px;
+}.banner_reactjs_heading p {font-family: 'Heebo', sans-serif;
+    
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    
+    color: #fff;
+    margin-bottom: 30px;
+}.reqst_btn a {font-family: 'Heebo', sans-serif;
+ font-size: 16px;
+    background-color: #f85508;
+    display: inline-block;
+    padding: 15px 40px;
+    color: #fff;
+    font-weight: 400;
+    border-radius: 10px;
+}.clor-gry {
+    background-color: #f3f3f3;
+}
+.col-xl-6{  float: left;
+    width: 50%;}.powerful-left {
+  
+    background-color: #fff;
+}.powerful-right {
+ 	
+}.content-area.powerfulpge {
+    padding: 0;
+}.padding-65-35{
+    padding: 65px 35px 35px 35px;
+}h2.text_font26 {
+    margin-bottom: 20px;
+    line-height: 1.6em;
+    color: #313749;
+    font-size: 26px;
+}
+.text_glimpse a{
+	color:#FFD700;
+	}
+
+.clor-blue {
+    background: #0d3d65;
+}
+.font-36 { color:#fff;
+    font-size: 36px;    margin-bottom: 20px;
+    line-height: 1.6em;
+}
+a.let_tke_btn {
+    color: #fff;
+    background-color: #f85508;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+.powerful-left p {color: #5c6870;line-height: 1.7em;
+    margin-bottom: 30px;font-size: 16px;
+}.icon_performance {
+    margin: 0 20px 0 0;
+    float: left;
+    width: 70px;
+}.text_performance h3 {
+    color: #313749;
+    font-size: 24px;
+}.text_performance h4 {
+    margin: 0;
+    padding: 8px 0 0 0!important;
+    color: #5c6870;
+    font-size: 18px;
+    font-weight: 400;
+}.bullet-design {
+    padding: 0 0 30px 0;
+}
+.text_performance {
+    float: left;
+}
+.icon_glimpse {
+    margin: 0 3% 0 0;
+    float: left;
+    width: 20%;
+}.text_glimpse {
+    float: left;
+    width: 75%;
+}.text_glimpse h3 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 26px;
+    color: #fff;
+    letter-spacing: 1px;
+}.text_glimpse h4 {
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.7em;
+    letter-spacing: 1px;
+}.glimpse-design {
+    padding: 0 0 40px 0;
+}.glimpse_cmpany p {
+    color: #fff;
+    font-size: 18px;
+}.icon_glimpse-rept {
+    width: 240px;
+    float: left;
+    padding: 0 5px 5px 5px;
+}.glimpse-imges {
+    padding: 25px 0 0 0;
+}.dribbble_cmpany.padding-65-35 {
+    padding: 25% 35px 65px 35px;
+}.srv_bx_cmpany p {
+    color: #5c6870;
+    line-height: 1.7em;
+    margin-bottom: 30px;
+    font-size: 16px;
+}.text_let_tke h3 {
+  padding: 10px 0 0 0;
+    color: #5c6870;
+    font-size: 15px;
+    line-height: 25px;
+}.text_let_tke {
+    float: right;
+    width: 120px;
+    padding: 10px 0 0 0;
+    color: #5c6870;
+    font-size: 14px;
+    line-height: 25px;
+}.icon_let_tke {
+    float: left;
+    width: 80px;
+}.let_tke_services {
+    background: #fff;
+}.let_tke-bx {
+    width: 210px;
+    float: left;
+    padding: 0 10px 30px 10px;
+}.industries-bx  a {min-height: 50px;
+    border: 1px solid rgba(255,255,255,.1);
+    padding: 30px 25px;
+    margin: 0;
+    color: #fff;
+    display: block;
+    text-align: center; 
+}
+.industries-bx a:hover {transition: .3s; 
+    border: 1px solid rgba(255,255,255,.8);
+}
+.industries-bx {
+    float: left;
+    width: 50%;
+}.tech-icn .text_let_tke h3 {
+    padding: 22px 0 0;}
+.tech_bx_cmpany .font-36 {
+    color: #313749;
+}.tech-design h3 a {
+    display: block;
+    color: #1e90ff;
+    padding: 0 0 10px 0;
+}.looking_bx_cmpany {
+    float: right;
+    width: 50%;
+    background: #f3f3f3;
+}.looking_bx_cmpany p {
+    color: #5c6870;
+    line-height: 1.7em;
+    margin-bottom: 30px;
+    font-size: 16px;
+}.looking_tke-bx {padding: 0 0 4% 0;
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}.looking_toty {
+    max-width: 110px;
+    margin: auto;
+} .text_let_looking {line-height: 28px; 
+    color: #5c6870;
+    font-weight: normal;
+}.looking_design {
+    padding: 25px 0 40px 0;
+}/*-----------------------responsive.css---------------------*/
+@media screen and (min-width: 320px) and (max-width: 767px) {.col-xl-6, .looking_bx_cmpany {
+  
+    width: 100% !important;
+}.dribbble_cmpany.padding-65-35 {
+    padding: 12% 20px 35px !important;
+}
+.padding-65-35 {
+    padding: 50px 20px 35px !important;
+}
+}
+
+/*-----------------------responsive.css---------------------*/

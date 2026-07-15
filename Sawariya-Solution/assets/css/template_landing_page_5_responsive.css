@@ -1,0 +1,421 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+
+.selecting_development_heading li{
+position: relative;
+padding: 0 0 10px 22px;
+margin: 0 0 10px;
+border-bottom: 1px solid #103d67;
+}
+
+.nodejs_development {
+    padding: 3% 0 5% 0;
+}
+
+.container {
+    max-width: 94%;
+}
+
+.nodejs_development_heading {
+    padding: 12% 0 32px 0;
+}
+
+.nodejs_development_heading h1 {
+    font-size: 45px;
+    line-height: 45px;
+}
+.nodejs_development_heading h1 span {
+    font-size: 26px;
+}
+
+.nodejs_development_heading p {
+    font-size: 16px;
+    padding-bottom: 18px;
+}
+
+.enquire_btn a {
+    padding: 10px 26px;
+}
+
+.selecting_development_heading {
+	width:100%;
+}
+.selecting_development_heading h4 {
+    font-size: 18px;
+    text-align: center;
+}
+.selecting_development_heading h2 {
+    font-size: 28px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.selecting_development_heading p {
+    font-size: 16px;
+    padding-bottom: 13px;
+    color: #333333;
+    font-weight: 400;
+    text-align: center;
+}
+
+/***/
+.selecting_leftimg-mobile {
+    display: block !important;
+    width: 100%;
+    padding: 44px 0;
+}
+
+.selecting_development_leftimg_desktop {
+    display: none;
+}
+.selecting_development_leftimg {
+    width: 100%;
+    padding: 43px 0;
+}
+.reasons_development {
+    background-color: #103d67;
+    padding: 42px 0;
+}
+
+.reasons_development_heading {
+    width: 100%;
+    padding: 35px 0;
+    text-align: center;
+}
+
+.reasons_development_heading h4 {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+
+.reasons_development_heading h2 {
+    font-size: 28px;
+    padding-bottom: 15px;
+}
+
+.reasons_development_heading p {
+    font-size: 16px;
+    text-align: center;
+}
+.reasons_development_box {
+    width: 100%;
+    padding: 32px 0;
+    text-align: center;
+}
+.faster_execution img {
+    float: unset;
+}
+.planning_deliver_heading h4 {
+    font-size: 18px;
+}
+
+.planning_deliver_heading h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.planning_deliver_heading p {
+    font-size: 16px;
+    width: 100%;
+}
+
+
+.planning_deliver_box {
+    width: 100%;
+    padding: 22px 0;
+}
+
+.prospective_service_heading h4 {
+    font-size: 18px;
+}
+
+.prospective_service_heading h2 {
+    font-size: 28px;
+}
+
+.prospective_service_heading p {
+    font-size: 16px;
+    width: 100%;
+}
+
+.prospective_service_box {
+    width: 95%;
+    padding: 22px 0px 10px 10px;
+    margin: 13px 0;
+}
+.best_node_heading {
+    width: 100%;
+}
+
+.best_node_heading h2 {
+    line-height: 36px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.best_node_heading p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.best_node_leftimg {
+    width: 100%;
+    padding: 43px 0;
+}
+
+.web_services_companies_heading h3 {
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+}
+.further_companies {
+    padding: 52px 0;
+}
+
+.further_companies_heading h2 {
+    font-size: 28px;
+}
+
+.further_companies_heading p {
+    font-size: 16px;
+}
+
+.expertise_heading h2 {
+    font-size: 28px;
+}
+
+.tab-technologie {
+    width: 100%;
+}
+
+.technologies_tab button {
+    width: 100%;
+}
+
+.teelance_text h5 {
+    width: 100%;
+    font-size: 16px;
+}
+
+.highlights_btn {
+    width: 100%;
+}
+
+.faster_execuyion_tittle {
+    width: 100%;
+    padding-left: 0;
+}
+
+.technologies_tab-tabcontent {
+    width: 90%;
+    padding: 26px 16px;
+}
+
+.recommend_testimonail_box p {
+    width: 100%;
+}
+
+.place_inquiry-btn {
+    width: 96%;
+    font-size: 14px;
+    padding: 14px 0 38px 5px;
+}
+
+
+
+
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+.container {
+     max-width: 90%;
+}
+
+
+.selecting_development_heading h2 {
+    font-size: 32px;   
+	padding-bottom: 14px;
+}
+
+.selecting_development_heading p {
+    font-size: 16px;
+}
+
+.selecting_development_leftimg {
+    padding: 43px 25px;
+}
+.reasons_development_heading h2 {
+    font-size: 32px;
+}
+
+.reasons_development_heading p {
+    font-size: 16px;
+}
+
+.reasons_development_box {
+    width: 45%;
+}
+
+.faster_execuyion_tittle {
+    width: 67%;
+}
+
+.planning_deliver_heading h2 {
+    font-size: 32px;
+}
+
+.planning_deliver_heading p {
+    font-size: 16px;
+}
+.planning_deliver_box {
+    width: 22%;
+    padding: 22px 9px;
+}
+.planning_deliver_box h5 {
+    font-size: 18px;
+}
+
+.planning_deliver_box p {
+    font-size: 15px;
+}
+
+.prospective_service_heading h2 {
+    font-size: 32px;
+}
+
+.prospective_service_heading p {
+    font-size: 16px;
+    width: 100%;
+}
+
+.prospective_service_box {
+    margin: 0 2px;
+}
+
+.best_node_heading h2 {
+    font-size: 32px;
+}
+
+.best_node_heading p {
+    font-size: 16px;
+}
+
+.best_node_leftimg {
+    width: 42%;
+    padding: 43px 24px;
+	vertical-align:top;
+}
+
+.web_services_companies_heading h3 {
+    font-size: 20px;
+    width: 100%;
+}
+
+.further_companies_heading h2 {
+    font-size: 32px;
+}
+
+.further_companies_heading p {
+    font-size: 16px;
+}
+
+.expertise_heading h2 {
+    font-size: 32px;
+}
+.tab-technologie {
+    width: 100%;
+}
+.technologies_tab button {
+    padding: 0 2px;
+}
+
+.highlights_btn h5 {
+    width: 100%;
+}
+
+.highlights_btn ul li {
+    padding: 4px 12px;
+}
+
+.recommend_testimonail_box p {
+    width: 60%;
+}
+
+.place_inquiry-btn {
+    width: 97%;
+    padding: 14px 0 18px 8px;
+}
+
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1240px) {
+	
+.container {
+    max-width: 94%;
+}
+
+.selecting_development_leftimg {
+    padding: 43px 36px;
+}
+
+.reasons_development_box {
+    width: 47%;
+}
+
+.faster_execuyion_tittle {
+    width: 75%;
+}
+
+.planning_deliver_box {
+    padding: 22px 13px;
+}
+
+.prospective_service_box {
+    margin: 0 10px;
+}
+
+.best_node_leftimg {
+    padding: 43px 36px;
+}
+
+.tab-technologie {
+    width: 73%;
+}
+
+
+.technologies_tab button {
+    padding: 0 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+}
+	
+
+
+
+
+
+

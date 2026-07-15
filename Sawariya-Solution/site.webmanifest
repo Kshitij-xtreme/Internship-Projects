@@ -1,0 +1,30 @@
+{
+  "name": "Sawariya Solution",
+  "short_name": "Sawariya",
+  "icons": [
+    {
+      "src": "/Sawariya-Solution-Rewamp/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/Sawariya-Solution-Rewamp/wp-content/uploads/2021/12/cropped-new-design-logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Sawariya-Solution-Rewamp/wp-content/uploads/2021/12/cropped-new-design-logo-270x270.png",
+      "sizes": "270x270",
+      "type": "image/png"
+    },
+    {
+      "src": "/Sawariya-Solution-Rewamp/wp-content/uploads/2021/12/cropped-new-design-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#141520",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/Sawariya-Solution-Rewamp/"
+}

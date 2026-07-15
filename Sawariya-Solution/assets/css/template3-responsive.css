@@ -1,0 +1,584 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+.overview_bg {
+    padding: 66px 0 32%;
+}
+
+
+	
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	
+.features_div {
+    display: inline-block;
+    width: 100%;
+}
+
+.container {
+    max-width: 90%;
+}
+.web_app-left {
+    width: 100%;
+}
+.web_app-left img {
+    width: 100%;
+}
+.web_app-right {
+    width: 100%;
+}
+/***/
+
+.heading_div h2 {
+    font-size: 26px;
+}
+.app_aenefits h2 {
+    font-size: 26px;
+}
+.aenefits_icon.aenefits_icon_mpbile {
+    display: block !important;
+    margin: auto;
+}
+
+.best_awarded_inner h2 {
+    font-size: 26px;
+}
+.best_awarded_inner p {
+    font-size: 16px;    width: 100%;
+}
+.awarded-best-logo {
+    width: 30%;
+}
+
+.container_row {
+    margin: auto;
+    max-width: unset;
+}
+
+.development_services_outer {
+    background: none;
+}
+
+.development_services_all {
+    padding: 4.2em 0 0 0;
+}
+
+
+.development_services_inner h2 {
+    font-size: 26px;
+}
+
+.development_services_inner p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.development_services-box {
+    width: 100%;
+}
+
+.development_services-box-left {
+    width: 100%;
+    height: 0px; 
+}
+.development_services-box-right {
+    width: 100%;
+}
+.development_services-box h2 {
+    font-size: 26px;
+    padding-bottom: 22px;
+}
+
+.development_services-box p {
+    font-size: 16px;
+}
+
+.development_services-box-right h2 {
+    font-size: 26px;
+    padding-bottom: 22px;
+}
+
+.development_services-box-right p {
+    font-size: 16px;
+}
+
+
+/****/
+
+.title-industri-man, .head-title-inner {
+    font-size: 26px;
+    color: #f75508;
+}
+
+.container_row.landing {
+    padding: 0;
+}
+
+.web_app_inner h2 {
+    font-size: 26px;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
+
+.widget-certificate {
+    padding: 3px 16px;
+}
+
+.featurs_inner {
+    width: 100%;
+}
+
+.features_div {
+    display: inline-block;
+    width: 100%;
+}
+
+.features_div1 {
+    width: 100%;
+}
+
+.features_div1 ul {
+    margin-top: 0;
+}
+
+
+.features_div1 li {
+    margin: 17px 50px;
+}
+
+
+.features_div2 {
+    width: 84%;
+    margin: auto;
+    float: unset;
+}
+
+.reliable_inner {
+    width: 100%;
+}
+
+.box1 {
+    width: 43%;
+}
+
+.reliable_text p {
+    width: 100%;
+}
+
+.contaner {
+    max-width: 90%;
+}
+
+.aenefits_text {
+    width: 100%;
+}
+
+.aenefits_img {
+    display: none;
+}
+
+.aenefits_icon {
+    width: 40%;
+      padding-right: 0;
+}
+
+.aenefits_icon.aenefits_icon_mobile {
+    display: block !important;  
+	 margin: auto;
+}
+
+.aenefits_icon.aenefits_icon_desktop {
+    display: none;
+}
+.benefits {    padding-bottom: 15px;
+    text-align: center;
+}
+
+.expertise_heading h2 {
+    font-size: 26px;    padding-bottom: 15px;
+    text-align: center;
+}
+.technologies_tab button {
+    font-size: 18px !important;
+    padding: 10px 26px;
+
+}
+
+.overview_bg {
+    padding: 66px 0 31%;
+}
+
+.centered_img_outer_two_border {
+    background: none;    padding-top: 15px;
+}
+.centered_box_show {
+    padding-top: 47%;
+}
+
+.centered_img2 {
+    width: 100%;
+}
+
+
+.centered_box_show_two {
+    padding-top: 10px;
+}
+
+.centered_box_two_text {
+    width: 100%;
+}
+
+.overview_outer {
+    padding-bottom: 32px;
+}
+
+.other_mobile_outer h2 {
+    font-size: 26px;
+    padding-bottom: 22px;
+}
+
+
+.other_outer_inner_box_fast {
+    width: 85%;
+    padding: 36px 22px 62px;
+    margin-left: 0;
+    margin-bottom: 24px;
+}
+
+
+.prototyping_contant {
+       width: 78%;
+}
+
+.after_developmentouter_heading h2 {
+    font-size: 26px;
+}
+
+.after_developmentouter_box_inner_img {
+    width: 100%;    text-align: center;
+}
+
+.other_outer_inner_box {
+    padding: 0 0;
+}
+
+.after_developmentouter_box_inner_text {
+    padding-top: 34px;
+    width: 100%;
+    text-align: center;
+}
+
+.after_developmentouter_full {
+    padding: 52px 0 52px;
+}
+
+.dolores_title {
+    width: 100%;
+}
+
+.download-opsam_text img {
+    float: unset;
+}
+
+.other_speaks_heding h2 {
+    font-size: 32px;
+}
+
+.other_speaks_heding p {
+    font-size: 16px;
+}
+
+.speaks_inner_box_img {
+    width: 100%;
+}
+
+
+.speaks_inner_box_img_right {
+    width: 100%;
+}
+
+
+.speaks_inner_box_img_right img {
+    width: 40%;
+	padding: 15px 0 5px 20px;
+}
+
+/****from-css****/
+
+.get_inner_from {
+    padding: 22px 15px;
+    width: 90%;
+}
+
+.get_say_from {
+    width: 93%;
+    padding: 45px 0 25px 20px;
+}
+
+
+.get_say_from h5 {
+    font-size: 24px;
+    margin: 0 0 14px;
+}
+
+.get_say_Information-sec {
+    width: 100%;
+}
+.get_say_Information-sec li {
+    width: 100%;
+}
+.get_say_Information-sec li img {
+    margin: 16px 0;
+}
+.get_say_Information-sec li a {
+    min-width: 70%;
+    float: left;
+    display: inline-block;
+    font-size: 14px;    padding: 18px 22px;
+}
+
+.five_box {
+    text-align: center;
+}
+
+.box1 span {
+    font-size: 13px;
+}
+
+.centered_img {
+    top: 141px;
+}
+
+
+
+.head-banner {
+    padding: 22% 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+.container_row.landing {
+    padding: 0;
+}
+.container {
+    max-width: 90%;
+}
+
+.featurs_inner {
+    width: 100%;
+}
+
+.reliable_inner {
+    width: 100%;
+}
+.web_app_inner h2 {
+    font-size: 32px;
+    text-align: center;
+}
+.best_awarded_inner h2 {
+    font-size: 32px;
+}
+
+.best_awarded_inner p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.features_div1 ul {
+    padding-top: 66px;
+}
+
+.features_div1 li {
+    margin: 17px 20px;
+}
+
+.features_div1 li a {
+    font-size: 16px;
+}
+
+.heading_div h2 {
+    font-size: 32px;
+}
+
+.reliable_text p {
+    width: 90%;
+}
+
+.features_div1 ul {
+    width: 100%;
+    text-align: center;
+}
+.contaner {
+    max-width: 96%;
+}
+.aenefits_icon {
+    width: 20%;
+}
+
+.expertise_heading h2 {
+    font-size: 32px;
+}
+
+.centered_img_outer_two_border {
+    background: none;
+}
+.centered_box_show {
+    width: 100%;
+    padding-top: 38%;
+}
+
+.centered_img2 {
+    width: 33%;
+}
+
+.centered_box_show_two {
+    padding-top: 42px;
+}
+
+.centered_box_two_text {
+    width: 33%;
+}
+
+.other_mobile_outer h2 {
+    font-size: 32px;
+    padding-bottom: 32px;
+}
+.other_outer_inner_box_fast {
+    width: 40%;    margin-left: 20px;
+}
+
+.other_outer_inner_box {
+    padding: 15px 0;
+}
+
+
+.prototyping_contant {
+    width: 80%;
+}
+
+.prototyping_contant h3 {
+    font-size: 22px;
+}
+
+
+.after_developmentouter_heading h2 {
+    font-size: 32px;
+}
+
+
+.other_mobile_outer_full {
+    padding: 31px 0;
+}
+
+.after_developmentouter_box_inner_img {
+    width: 46%;
+    padding-right: 34px;
+}
+
+.dolores_title {
+    width: 68%;
+}
+
+
+.dolores_title h3 {
+    font-size: 18px;
+}
+
+.other_speaks_heding h2 {
+    font-size: 32px;
+}
+
+.other_speaks_heding p {
+    font-size: 16px;
+}
+
+.speaks_inner_box_img_right img {
+     width: 43%;
+}
+
+
+/**from-css*/
+.get_inner_from {
+    padding: 35px 25px;
+    width: 50%;
+}
+
+
+.get_say_from {
+    width: 42%;
+    padding: 45px 0 25px 5px;
+}
+
+.get_say_Information-sec {
+    width: 100%;
+    padding-bottom: 37px;
+}
+
+.get_say_Information-sec li {
+    width: 100%;
+    margin-bottom: 35px;
+}
+.get_say_Information-sec li a {
+    min-width: 77%;
+    float: left;
+    padding: 18px 13px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

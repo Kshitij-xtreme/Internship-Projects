@@ -1,0 +1,321 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	
+.healthcare_fitness_contant_all .healthcare_fitness_contantbox {
+    width: 100% !important;
+}
+	
+	}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	.get_say_Information-sec li a {
+    min-width: 80%;
+  
+    padding: 18px 4%;
+  
+}
+	.get_inner_from {
+  
+    padding: 15px 0;
+    
+    width: 100%;
+    
+}.get_say_from {
+   
+    width: 96%;
+    padding: 45px 2% 25px 2%;
+  
+}
+	.hire_php_box {
+    margin: -40px 0 0;
+}
+.container_row.landing {
+    padding: 0;
+}
+.adroit_img_box, .adroit_text_box {
+    float: none;
+    width: 100%;
+}
+.container {
+    max-width: 90%;
+}
+
+.top_development_company_bg {
+    background-size: cover;   
+	padding: 18% 0 3%;
+}
+
+
+.top_development_company_heading h1 {
+    font-size: 28px;
+    width: 100%;
+    text-align: center;
+}
+
+.top_development_company_heading p {
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+}
+
+.request_btn {
+    text-align: center;
+}
+.request_btn a {
+    font-size: 16px;
+    padding: 14px 27px;
+}
+
+
+.app_development_tittle h2 {
+    font-size: 28px;
+}
+
+.app_development_tittle p {
+    font-size: 14px;
+    width: 100%;
+}
+
+.development_tabs li {
+    padding: 22px 9px;
+}
+
+.tab-content {
+    padding: 24px 0 10px;
+    width: 100%;
+    font-size: 14px;
+}
+.database_tab_img img {
+    padding: 16px 10px 0;
+}
+
+.design_expertise_tittle h2 {
+    font-size: 28px;
+    width: 100%;
+}
+
+.design_expertise_tittle p {
+    font-size: 14px;
+}
+.design_expertise_tittle ul li {
+    font-size: 16px;
+}
+
+.design_responsive_btn {
+    padding: 22px 0;
+}
+
+.design_responsive_btn a {
+    padding: 15px 10px;
+    margin: 0 4px;
+    font-size: 12px;
+}
+
+
+.php_development_tittle h2 {
+    font-size: 28px;
+    padding-bottom: 31px;
+}
+
+.understanding_text {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.market_revolutionizing_heading h2 {
+    font-size: 28px;
+    width: 100%;
+}
+
+
+.revolutionizing_tabs {
+    text-align: center;
+}
+
+.revolutionizing_tabs li {
+     padding: 14px 32px;
+     margin: 9px 7px;
+}
+
+
+.latest_accomplishments_heading h2 {
+    font-size: 28px;
+    width: 100%;
+}
+
+
+.latest_accomplishments_heading p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.skilled_experts_heading h2 {
+    font-size: 28px;
+}
+
+.skilled_experts_heading p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.skilled_experts_box { 
+    padding: 52px 0;
+    background-size: cover;
+}
+
+.skilled_experts_box h3 {
+    font-size: 22px;
+}
+
+
+/*****/
+
+
+.healthcare_fitness_contant_all {
+    padding-bottom: 0;
+}
+
+.healthcare_fitness_contantbox {
+    width: 50% !important;
+   /* padding: 10.2% 0 !important;*/
+}
+
+.healthcare_fitness_contantbox img {
+    padding-top: 18px !important;
+}
+
+
+
+}
+
+
+
+
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+
+.container_row.landing {
+    padding: 0;
+}
+
+.top_development_company_bg {
+    padding: 14% 0 16%;
+    background-size: cover;
+}
+
+
+.container {
+    max-width: 95%;
+}
+
+
+.top_development_company_heading h1 {
+    font-size: 42px;
+}
+
+
+.top_development_company_heading p {
+    font-size: 16px;
+    width: 50%;
+}
+
+
+.technologies_tab {
+    width: 95%;
+}
+
+.development_tabs li {
+    padding: 22px 14px;
+}
+
+.tab-content {
+    padding: 22px 0 10px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.design_expertise_tittle h2 {
+    font-size: 28px;
+    width: 80%;
+}
+.understanding_text h3 {
+    font-size: 16px;
+}
+
+
+.understanding_text p {
+    font-size: 15px;
+    width: 80%;
+}
+
+.market_revolutionizing_heading h2 {
+    font-size: 28px;
+    width: 74%;
+}
+
+
+
+.revolutionizing_tabs li {
+    padding: 14px 13px;
+    margin: 0 7px;
+}
+.revolutionizing_tabs li h3 {
+    font-size: 14px;
+}
+
+
+.latest_accomplishments_heading h2 {
+    font-size: 28px;
+    width: 100%;
+}
+
+
+.skilled_experts_heading h2 {
+    font-size: 28px;
+}
+
+.skilled_experts_heading p {
+    font-size: 14px;
+}
+
+
+.skilled_experts_box {
+    padding: 26px 0;
+}
+
+
+
+
+/****/
+
+
+
+.healthcare_fitness_contantbox {
+    width: 23%;
+    padding: 7.2% 0;
+    background-size: 100%;
+    margin-right: 10px;
+}
+
+.healthcare_fitness_contantbox h5 {
+    font-size: 16px;
+    width: 55%;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,643 @@
+@charset "utf-8";
+/* CSS Document */
+/*@media screen and (max-width: 1280px) {
+	.container_row h1.head-title-inner {
+		font-size: 30px;
+	}
+	.container_row h2.sub-head-def-inner {
+		font-size: 14px;
+	}
+	.web_app-right p {
+		font-size: 14px;
+	}
+	.container_row.landing {
+		padding: 0;
+	}
+	.web_app-right{
+		margin-left: 1%;
+	}
+	.development_services_all {
+		padding-left: 20px;
+		padding-right: 20px;
+		width: calc(100% - 40px);
+	}
+}*/
+@media screen and (min-width: 475px) and (max-width: 768px) {
+
+.healthcare_fitness_contantbox {
+    width: 50% !important;
+    padding: 10.2% 0 !important;
+}	
+
+
+.healthcare_fitness_contantbox h5 {
+    font-size: 16px !important;
+    width: 50% !important;
+    padding-bottom: 32px !important;
+}
+
+.healthcare_fitness_contantbox img {
+    padding-top: 18px !important;
+}
+	
+	
+.widget-certificate {
+    width: 20% !important;
+}	
+	
+	
+.technologies_tab button {
+     font-size: 22px !important;
+}	
+	
+.alignleft {
+    margin: .375em 0.75em 1.75em 0;
+}	
+	
+	
+	
+	
+}
+	
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+
+.studies_case_contant_box.studies_case_contant_desktop {
+    display: none;
+}
+
+.studies_case_contant_box.studies_case_contant_mobile {
+    display: block !important;
+}
+
+
+.container {
+    max-width: 90%;
+}
+.web_app-left {
+    width: 100%;
+}
+.web_app-left img {
+    width: 100%;
+}
+.web_app-right {
+    width: 100%;
+}
+/***/
+
+
+.best_awarded_inner h2 {
+    font-size: 24px;    text-align: center;
+}
+.best_awarded_inner p {
+    font-size: 16px;width: 100%;
+}
+.awarded-best-logo {
+    width: 30%;
+}
+
+
+
+.development_services_outer {
+    background: none;
+}
+
+.development_services_all {
+    padding:0 0 0 0; text-align:center;
+}
+
+
+.development_services_inner h2 {
+    font-size: 24px;    text-align: center;
+}
+
+.development_services_inner p {
+    width: 100%;    text-align: center;
+    font-size: 16px;
+}
+
+.development_services-box {
+    width: 100%;
+}
+
+.development_services-box-emplay {
+    width: 100%;
+}
+.development_services-box-emplay.mobile-sec-emplay {
+    display: block !important;   
+	width: 50%;
+    margin: auto;
+}
+.development_services-box-emplay.mobile-sec-emplay img {
+    display: block;
+}
+
+.development_services-box-left {
+      width: 50%;
+    height: auto;
+    margin: auto;
+}
+.development_services-box-left img {
+    display: block;
+}
+
+.development_services-box-right {
+    width: 100%;
+}
+.development_services-box h2 {
+    font-size: 24px;text-align: center;
+    padding-bottom: 22px;
+}
+
+.development_services-box p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.development_services-box-right h2 {
+    font-size: 24px;text-align: center;
+    padding-bottom: 22px;
+}
+
+.development_services-box-right p {
+    font-size: 16px;  text-align: center;
+}
+
+.business_help_inner {
+    width: 100%;
+}
+
+.business_help_inner h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.business_help_inner h4 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.technologies_all h2 {
+    font-size: 26px;
+}
+
+
+.tab-technologie {
+    width: 100%;
+}
+
+
+/***/
+
+.container_row {
+	 padding:0px;
+    max-width: 98%;
+}
+.container_row h1.head-title-inner {
+    width: 100% !important;    color: #969696  !important;
+    text-align: center  !important;
+    font-size: 26px  !important;
+}
+
+
+.container_row h2.sub-head-def-inner {
+    width: 100% !important;color: #000000;
+    text-align: center !important;
+    font-size: 16px !important;
+ 
+}
+
+.web_app_inner h2 {
+    font-size: 24px;
+}
+.quote_sec p {
+    font-size: 24px;
+    text-align: center;
+}
+
+.widget-certificate {
+    width: 42%;
+}
+.technologies_img {
+    width: 100%;
+}
+.technologies_tab {
+    width: 100%;
+}
+
+.development_process_contant h2 {
+    font-size: 24px;
+}
+
+.development_process_contant p {
+    font-size: 16px;    width: 100%;
+}
+
+.requirements_text_left {
+    width: 100%;
+}
+.requirements_text_left ul {
+    width: 100%;
+}
+.requirements_text_left ul li {
+    margin: auto;
+}
+.requirements_text_inner {
+    width: 100%; text-align:center;
+}
+.requirements_text_inner h2 {
+    font-size: 24px;
+}
+
+.project-fixed-right {
+    width: 100%;  
+	display: none;
+}
+
+.project-fixed-right.project-needs-mobile {
+    display: block; text-align:center;
+}
+
+.develop_solutions_contant h2 {
+       font-size: 24px;
+    padding-bottom: 15px;
+}
+
+.develop_solutions_contant p {
+    width: 100%;
+    font-size: 16px;
+}
+
+
+.develop_solutions_contant_left {
+    width: 100%;
+}
+
+.healthcare-icon {
+    width: 18%;
+    padding-right: 8px;
+}
+
+
+.healthcare-contant {
+    width: 78%;
+}
+.healthcare-contant h3 {
+    font-size: 22px;
+}
+
+.cmsframework_outer {
+    background-size: cover;
+}
+
+.cmsframework_inner h2 {
+    font-size: 24px;
+}
+.cms_contant_inner h3 {
+    font-size: 32px;
+}
+
+.cmsframework_inner_contant_all {
+    padding: 26px 0 42px;
+}
+
+.industries_inner p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.cmsframework_inner p {
+    width: 100%;
+    font-size: 16px;
+}
+.cmsframework_inner_two {
+    width: 100%;
+}
+
+.cmsframework_inner_border-left {
+    border: 0;
+}
+
+.industries_inner h2 {
+    font-size: 32px;
+}
+.healthcare_fitness_contant_all {
+     padding-bottom: 0px;
+}
+.healthcare_fitness_contantbox {
+    width: 100%;
+    padding: 16% 0 33px 0;
+}
+
+.healthcare_fitness_contantbox h5 {
+    font-size: 18px;
+    width: 50%;
+    padding-bottom: 46px;
+}
+.healthcare_fitness_contantbox img {
+    padding-top: 18px;
+}
+.studies_contant_inner p {
+    width: 100%;
+    font-size: 16px;
+}
+
+.studies_case_contant_box {
+    width: 100%;
+}
+
+.business_help {
+    background-size: cover;
+}
+
+
+.get_say_from {
+    width: 100%;
+    padding: 45px 0 25px 20px;
+}
+
+.get_say_from h5 {
+    font-size: 24px;
+    margin: 0 0 14px;
+}
+
+.get_say_Information-sec {
+    width: 100%;
+}
+
+.get_say_Information-sec li {
+    width: 100%;
+}
+
+.get_say_Information-sec li img {
+    margin: 16px 0px;
+}
+
+.get_say_Information-sec li a {
+    min-width: 58%;
+    padding: 18px 30px;
+}
+
+
+.development_services_outer {
+    padding: 52px 0 16px;
+}
+.container_row.landing {
+    padding: 0 !important;
+}
+
+.studies_case_contant_box h2 {
+    font-size: 32px;
+}
+
+.studies_case_contant_box p {
+    width: 100%;
+}
+
+.studies_outer {
+    padding: 52px 0 12%;
+	    background: none;
+}
+
+.place_inquiry_contant h2 {
+    font-size: 32px;
+}
+
+.place_inquiry-btn {
+    font-size: 16px;
+}
+
+.get_inner_from {
+    padding: 22px 15px;
+    width: 90%;
+}
+
+
+.project-fixed-right.mobile-project-fixed {
+    display: block !important;    text-align: center;
+}
+
+.technologies_tab button {
+    padding: 14px 5px ;
+    font-size: 14px ;
+}
+
+.footer_get_tuch_outer {
+    padding: 52px 0 0 0;
+}
+.get_say_Information-sec li a {
+    min-width: 70%;
+    float: left;
+    display: inline-block;
+}
+
+
+
+}
+
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+	
+	
+.container_row.landing {
+    padding: 0;
+}
+	
+.container {
+    max-width: 96%;
+}
+
+.development_services_outer {
+    background: none;    padding: 52px 0 5em;
+}
+
+	
+.development_services_all {
+    width: 100%;
+    padding: 45PX 0 0;
+}	
+.development_services-box h2, .development_services-box-right h2 {
+    font-size: 28px;
+    padding-bottom: 15px;
+}
+.development_services-box-left {
+    width: 28%;
+}
+
+.development_services-box-emplay {
+    width: 32%;
+}
+
+
+.development_services-box p  {
+    font-size: 16px;
+}
+	
+.development_services-box-emplay img {
+    display: block;
+}	
+	
+.development_services-box-right p { font-size: 16px;
+}
+	
+.development_services-box-left img {
+    display: block;
+}	
+	
+.business_help {
+    background-size: cover;
+}			
+.business_help_inner {
+    width: 100%;
+    text-align: center;
+}	
+	
+.business_help_inner h4 {
+    padding: 0 !important;
+}
+	
+.technologies_tab {
+    width: 50%;
+    padding-left: 15px;
+}	
+.technologies_tab button {
+    padding: 14px 8px;
+    font-size: 16px;
+}	
+
+.alignleft {
+    margin: .375em 0.75em 2.75em 0;
+}
+	
+.requirements_text_left ul {
+    width: 22%;
+}	
+	
+.requirements_text_inner {
+    width: 78%;
+}	
+
+
+.requirements_text_inner h2 {
+    font-size: 28px;
+    line-height: 33px;
+}
+	
+.healthcare-icon {
+    padding-right: 10px;
+}	
+	
+.healthcare-contant {
+    width: 80%;
+}	
+	
+.studies_outer {
+    background: none;
+}
+
+.healthcare_fitness_contant_all {
+    padding-bottom: 0;
+}
+	
+.healthcare_fitness_contantbox {
+    width: 23%;
+    padding: 7.2% 0;
+    background-size: 100%;
+    margin-right: 10px;
+}	
+
+.healthcare_fitness_contantbox h5 {
+    font-size: 11px;
+    width: 80%;    padding-bottom: 22px;
+
+}
+
+.studies_case_contant_box h2 {
+    font-size: 34px;
+    padding-bottom: 0;
+}
+
+.studies_case_contant_box p {
+    font-size: 14px;
+    width: 95%;
+}
+
+.studies_case_contant_box {
+    width: 45%;
+    padding-right: 15px;
+}
+
+.get_inner_from {
+    width: 50%;
+}
+
+.get_inner_from {
+    padding: 35px 25px;
+    width: 50%;
+}
+
+.get_say_from {
+    width: 42%;
+    padding: 45px 0 25px 5px;
+}
+
+.get_say_Information-sec {
+    width: 100%;
+   padding-bottom: 37px;;
+}
+
+.get_say_Information-sec li {
+    width: 100%;
+    margin-bottom: 35px;
+}
+.get_say_Information-sec li a {
+    min-width: 77%;
+    float: left;
+    padding: 18px 13px;
+    font-size: 15px;
+}
+
+
+.container_row h1.head-title-inner {
+     font-size: 34px !important;
+
+}
+	
+
+	
+}
+
+
+
+@media screen and (min-width: 845px) and (max-width: 1024px) {
+	
+	
+.healthcare_fitness_contantbox h5 {
+    font-size: 16px;
+    width: 55%;
+}
+
+
+	
+	
+}
+
+
+
+
+
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+
+
+
+
+
+
+
+
+}
+
+
