@@ -1,4 +1,4 @@
-X   # Krrishna Dhwarka Foundation Bharat — NGO Website
+   # Krrishna Dhwarka Foundation Bharat — NGO Website
 
 A complete website redesign for **Krrishna Dhwarka Foundation Bharat**, themed in gold and navy, featuring a donation module with Razorpay integration and printable receipts, plus an internal Admin Panel for managing banners, certificates, inquiries, and payments.
 
