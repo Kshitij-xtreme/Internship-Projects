@@ -4,10 +4,15 @@ A responsive, multi-page company website for Sawariya Solution — a web & mobil
 
 I built this as part of my software development internship. My mentor asked me to put together a complete, modern marketing website for the company using plain front-end technologies (no CMS, no page builder) and take it all the way to a working live link. This repo is the result.
 
+🔗 **Live site:** https://kshitij-xtreme.github.io/Internship-Projects/Sawariya-Solution/
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222?logo=github)
+
+![Sawariya Solution homepage screenshot](./screenshot.png)
 
 ---
 
@@ -48,6 +53,8 @@ Some of the things I focused on while building it:
 | Typography | Jost (self-hosted webfont) |
 
 ## 📁 Project structure
+
+```
 Sawariya-Solution/
 ├── index.html                 # Home page
 ├── 404.html                   # Custom 404 page
@@ -76,6 +83,7 @@ Sawariya-Solution/
 ├── favicon.ico                # site favicon (peacock mark)
 ├── site.webmanifest           # PWA / web app manifest
 └── README.md
+```
 
 The project root stays tidy — just three folders (`assets/`, `pages/`, `components/`) plus the home page and a couple of config files. All front-end assets live under `assets/`, and every inner page lives in its own folder under `pages/` (each with an `index.html`, giving clean URLs like `/pages/about-us/` and `/pages/services/`).
 
