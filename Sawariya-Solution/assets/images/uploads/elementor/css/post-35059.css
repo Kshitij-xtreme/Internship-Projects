@@ -1,0 +1,22 @@
+.elementor-35059 .elementor-element.elementor-element-c5fee10{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:60px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-35059 .elementor-element.elementor-element-1b14f78{--display:flex;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-35059 .elementor-element.elementor-element-f4a5da5{text-align:center;}.elementor-35059 .elementor-element.elementor-element-f4a5da5 .elementor-heading-title{font-family:"Verdana", Sans-serif;font-size:40px;font-weight:500;color:#000000;}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-35059 .elementor-element.elementor-element-44bcd75{--divider-border-style:solid;--divider-color:#F95408;--divider-border-width:2px;}.elementor-35059 .elementor-element.elementor-element-44bcd75 .elementor-divider-separator{width:185px;margin:0 auto;margin-center:0;}.elementor-35059 .elementor-element.elementor-element-44bcd75 .elementor-divider{text-align:center;padding-block-start:2px;padding-block-end:2px;}.elementor-35059 .elementor-element.elementor-element-c9b6e6f{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}@media(max-width:767px){.elementor-35059 .elementor-element.elementor-element-c5fee10{--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-35059 .elementor-element.elementor-element-f4a5da5 .elementor-heading-title{font-size:28px;}}/* Start custom CSS for container, class: .elementor-element-c5fee10 */.ue_review_rating {
+ 
+    background: #f7f7f7;
+    padding: 40px;
+    border-radius: 10px;
+} .ue_review_box_credentials {
+/*flex-direction: row !important;
+    align-items: center !important;*/
+  
+}.ue_review_box_text h4 {
+    color: #000;
+    font-weight: 500;
+    margin: 0 0 10px 0;
+}
+
+@media only screen and (max-width: 767px) {
+.ue_review_rating {
+  
+    padding: 10px 12px;
+ 
+}
+}/* End custom CSS */

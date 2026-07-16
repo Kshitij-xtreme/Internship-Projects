@@ -4,10 +4,13 @@ A responsive, multi-page company website for **Sawariya Solution** — a web & m
 
 I built this as part of my software development internship. My mentor asked me to put together a complete, modern marketing website for the company using plain front-end technologies (no CMS, no page builder) and take it all the way to a working live link. This repo is the result.
 
+🔗 **Live site:** https://anime123450.github.io/Sawariya-Solution-Rewamp/
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222?logo=github)
 
 ---
 
@@ -23,7 +26,7 @@ Some of the things I focused on while building it:
 - **A single font family across the whole site** (Jost) for a clean, uniform look.
 - **Fully responsive** layouts that hold up from large desktops down to phones.
 - **Self-hosted fonts and assets** so nothing depends on an external font service loading.
-- Getting every internal link, image and asset to resolve correctly.
+- Getting it **live on GitHub Pages** and making sure every internal link, image and asset resolves correctly on the hosted subpath.
 
 ## ✨ Features
 
@@ -46,11 +49,12 @@ Some of the things I focused on while building it:
 | Interactivity | Vanilla JavaScript + jQuery |
 | Icons | Font Awesome |
 | Typography | Jost (self-hosted webfont) |
+| Hosting | GitHub Pages |
 
 ## 📁 Project structure
 
 ```
-Sawariya-Solution/
+Sawariya-Solution-Rewamp/
 ├── index.html                 # Home page
 ├── 404.html                   # Custom 404 page
 │
@@ -75,21 +79,27 @@ Sawariya-Solution/
 │   └── ...                    # service & technology landing pages
 │
 ├── components/                # reusable header & footer partials
+├── .github/workflows/         # (optional) GitHub Actions deploy
 ├── favicon.ico                # site favicon (peacock mark)
 ├── site.webmanifest           # PWA / web app manifest
 └── README.md
 ```
 
-The project root stays tidy — just three folders (`assets/`, `pages/`, `components/`) plus the home page and a couple of config files. All front-end assets live under `assets/`, and every inner page lives in its own folder under `pages/` (each with an `index.html`, giving clean URLs like `/pages/about-us/` and `/pages/services/`).
+The project root stays tidy — just four folders (`assets/`, `pages/`,
+`components/`, `.github/`) plus the home page and a couple of config files.
+All front-end assets live under `assets/`, and every inner page lives in its
+own folder under `pages/` (each with an `index.html`, giving clean URLs like
+`/pages/about-us/` and `/pages/services/`).
 
 ## 🚀 Running it locally
 
-All paths in the site are **relative**, so it runs anywhere — just serve the folder with any static server:
+All paths in the site are **relative**, so it runs anywhere — just serve the
+folder with any static server:
 
 ```bash
 # 1. clone the repo
-git clone https://github.com/Kshitij-xtreme/Internship-Projects.git
-cd Internship-Projects/Sawariya-Solution
+git clone https://github.com/Anime123450/Sawariya-Solution-Rewamp.git
+cd Sawariya-Solution-Rewamp
 
 # 2. start any static server from inside the folder
 python -m http.server 8000
@@ -100,7 +110,13 @@ python -m http.server 8000
 http://localhost:8000/
 ```
 
-> Tip: use a local server rather than opening `index.html` directly from the file system — browsers block some resources on `file://`, so it needs `http://` to load everything correctly.
+> Tip: use a local server rather than opening `index.html` directly from the
+> file system — browsers block some resources on `file://`, so it needs
+> `http://` to load everything correctly.
+
+## 🌐 Deployment
+
+The site is deployed with **GitHub Pages** from the `main` branch (root folder). Every push to `main` automatically rebuilds and publishes the live site. A `.nojekyll` file is included so Pages serves the files exactly as they are.
 
 ## 📄 Main pages
 
@@ -117,12 +133,12 @@ http://localhost:8000/
 
 ## 🙏 Acknowledgements
 
-Big thanks to my internship mentor for the guidance, the design feedback, and for reviewing the work along the way.
+Big thanks to my internship mentor for the guidance, the design feedback, and for reviewing the work along the way. A lot of the polish — consistent header/footer, unified typography, and the smaller CSS fixes — came directly from that feedback.
 
 ## 👤 Author
 
-**Kshitij Jha**
-GitHub: [@Kshitij-xtreme](https://github.com/Kshitij-xtreme)
+**Animesh Sharma**
+GitHub: [@Anime123450](https://github.com/Anime123450)
 
 ---
 
